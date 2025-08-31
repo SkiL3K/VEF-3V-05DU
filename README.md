@@ -100,8 +100,6 @@ Margir missa móðinn í æfingum og vita ekki hvernig á að setja upp raunhæf
 
 ## Flæðirit (Figma)
 
-> Flæðirit eru unnin í Figmu. Hér er tengill á verkefnið og **PNG-útflutningar** (settu skrár í `docs/img/`).
-
 **Figma-skrá (skiptu út hlekk):**  
 https://www.figma.com/file/TwojLinkDoPliku
 
@@ -117,7 +115,6 @@ https://www.figma.com/file/TwojLinkDoPliku
 ### 4) Kerfisstjóri: Umsýsla æfingagagnagrunns
 ![Flow: Admin](docs/img/flow-admin.png)
 
-> **Ath.:** Ef þú kýst SVG/JPG, haltu sömu heitum og slóðum.
 
 ---
 
